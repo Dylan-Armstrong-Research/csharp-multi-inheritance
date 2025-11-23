@@ -1,0 +1,14 @@
+D:\Source\MultipleInheritance\bin\Debug\net10.0\MultipleInheritance.exe
+D:\Source\MultipleInheritance\bin\Debug\net10.0\MultipleInheritance.deps.json
+D:\Source\MultipleInheritance\bin\Debug\net10.0\MultipleInheritance.runtimeconfig.json
+D:\Source\MultipleInheritance\bin\Debug\net10.0\MultipleInheritance.dll
+D:\Source\MultipleInheritance\bin\Debug\net10.0\MultipleInheritance.pdb
+D:\Source\MultipleInheritance\obj\Debug\net10.0\MultipleInheritance.GeneratedMSBuildEditorConfig.editorconfig
+D:\Source\MultipleInheritance\obj\Debug\net10.0\MultipleInheritance.AssemblyInfoInputs.cache
+D:\Source\MultipleInheritance\obj\Debug\net10.0\MultipleInheritance.AssemblyInfo.cs
+D:\Source\MultipleInheritance\obj\Debug\net10.0\MultipleInheritance.csproj.CoreCompileInputs.cache
+D:\Source\MultipleInheritance\obj\Debug\net10.0\MultipleInheritance.dll
+D:\Source\MultipleInheritance\obj\Debug\net10.0\refint\MultipleInheritance.dll
+D:\Source\MultipleInheritance\obj\Debug\net10.0\MultipleInheritance.pdb
+D:\Source\MultipleInheritance\obj\Debug\net10.0\MultipleInheritance.genruntimeconfig.cache
+D:\Source\MultipleInheritance\obj\Debug\net10.0\ref\MultipleInheritance.dll
